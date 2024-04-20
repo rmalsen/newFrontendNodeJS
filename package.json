@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_frontend",
+  "version": "1.0.0",
+  "description": "Nodejs FrontEnd Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "Frontend"
+  ],
+  "author": "Rik van Malsen",
+  "license": "MIT"
+}
